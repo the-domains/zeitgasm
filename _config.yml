@@ -1,0 +1,28 @@
+name: Zeitgasm
+favicon: null
+layout_spectrum: 0.936201297910884
+typography_spectrum: 0.9801550579722971
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5111898176837713
+  lightness: 0.1511814941186458
+  saturation: 0.4504424105398357
+  rhythmicContrast: 0.9222823216114193
+purpose: []
